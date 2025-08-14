@@ -8,3 +8,11 @@ AIM
 6. Collect images and do.......
 7. Importance of the news and find parallels with market sentiment
 8. In future we can use Alphavantage API keys and bring parallels with stock market graphs.
+
+
+
+GENERAL GIT LEARNING
+
+1. Created a new branch Website_Creation-- added a file demo.txt
+2. Learned to create a PR
+2. Merged this to my main branch
